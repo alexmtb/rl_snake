@@ -1,5 +1,7 @@
 # Snake game with Reinforcement Learning
 
+![Game interface](https://github.com/alexmtb/rl_snake/blob/6ebdb32e97d6d05ed37bccaf51e38853ff8ee5ee/screen.png)
+
 ## Description
 
 This is a simple implementation of the Snake game with Reinforcement Learning using the [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3) library.
